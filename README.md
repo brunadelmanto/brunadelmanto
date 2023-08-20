@@ -1,5 +1,5 @@
 # Bruna Delmanto
-Hi there! 👋 My name is Bruna and I'm a Back-end Developer Student from Bauru-SP, Brazil, **looking for an opportunity to work**. I’m currently learning **JAVA** on the Digital Innovation One (DIO) and you can see my profile there clicking [here](https://www.dio.me/en/users/brunadelmanto).
+Hi there! 👋 My name is Bruna and I'm a Back-end Developer Student from Bauru-SP, Brazil, **looking for an opportunity to work**. I’m currently learning **Fullstack Java+Angular** on the Digital Innovation One (DIO) and you can see my profile there clicking [here](https://www.dio.me/en/users/brunadelmanto).
 
 ## Technical Knowledge
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
